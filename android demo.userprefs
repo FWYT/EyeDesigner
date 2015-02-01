@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\LogoScreen.cs">
+    <Files>
+      <File FileName="Assets\Resources\chooseStyle.cs" Line="52" Column="42" />
+      <File FileName="Assets\Myo Scripts\changeCloth.cs" Line="60" Column="43" />
+      <File FileName="Assets\Myo Scripts\changePanels.cs" Line="59" Column="42" />
+      <File FileName="Assets\Myo Scripts\changeMaxi.cs" Line="58" Column="44" />
+      <File FileName="Assets\Resources\LogoScreen.cs" Line="10" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
